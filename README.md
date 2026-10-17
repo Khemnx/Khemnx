@@ -56,6 +56,30 @@ My work covers product strategy, workflow design, AI-assisted implementation, an
 
 **My role and progress:** I defined the product vision, designed the mobile workflows and human/AI teammate experience, and directed AI-assisted implementation and testing. The product remains in private development, with integration setup and further verification still underway.
 
+### Next Move
+**Turn “we should do something” into a real plan · In development**
+
+[![Next Move homepage with the Kansas City skyline](next-move-home.jpg)](https://meetnextmove.com/)
+
+**The problem:** Wanting to spend time with someone is easy. Choosing what to do and putting the evening together can take more effort than it should.
+
+**My decision:** Bring the activity and the person into the same planning experience. Start with a local event or your own idea, choose who you're going with, and build the rest around what they enjoy.
+
+**What I created:** A consumer product centered on Moves, Connections, and the experience built around both. The public site introduces event discovery in Kansas City and two planning paths: pick an existing Move or build one from scratch.
+
+<details>
+<summary>See the planning concept</summary>
+
+![Next Move planning concept — Moves, Connections, and two ways to start](next-move-planning.jpg)
+
+</details>
+
+*Actual screenshots of the public website. Planning examples on the page illustrate the experience.*
+
+**My role and progress:** I created the concept, shaped the brand and product direction, designed the user journeys, and directed AI-assisted implementation across successive builds. Next Move is still in development, with a public website available to explore.
+
+**[Visit Next Move →](https://meetnextmove.com/)**
+
 ---
 
 ## What I bring to a project
